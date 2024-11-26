@@ -1,0 +1,186 @@
+HTML and CSS basics
+HTML Resources
+W3Schools: www.w3schools.com/html - A comprehensive online tutorial and reference for HTML, with examples and exercises.
+MDN Web Docs: developer.mozilla.org/en-US/docs/Web/HTML - Mozilla’s official documentation for HTML, including tutorials, reference materials, and examples.
+HTML Dog: www.htmldog.com - A free online book and tutorial for HTML, covering topics from basic syntax to advanced techniques.
+
+
+CSS Resources
+W3Schools: www.w3schools.com/css - A comprehensive online tutorial and reference for CSS, with examples and exercises.
+MDN Web Docs: developer.mozilla.org/en-US/docs/Web/CSS - Mozilla’s official documentation for CSS, including tutorials, reference materials, and examples.
+CSS-Tricks: css-tricks.com - A popular blog and resource for CSS, covering topics from basics to advanced techniques, including responsive design and CSS animations.
+
+
+YouTube Channels
+Traversy Media (Brad Traversy): www.youtube.com/traversymedia - Brad Traversy’s channel offers in-depth tutorials on HTML, CSS, JavaScript, and React.
+FreeCodeCamp: www.youtube.com/freecodecamp - FreeCodeCamp’s official YouTube channel offers video tutorials and explanations for HTML, CSS, JavaScript, and other web development topics.
+Tyler McGinnis: www.youtube.com/tylermcginnis - Tyler McGinnis’s channel offers tutorials on HTML, CSS, JavaScript, and React, with a focus on beginner-friendly content.
+
+Specific YouTube Videos
+HTML Basics: “HTML Tutorial for Beginners” by Traversy Media (45 minutes)
+CSS Basics: “CSS Tutorial for Beginners” by FreeCodeCamp (1 hour 15 minutes)
+Responsive Design: “Responsive Web Design Tutorial” by CSS-Tricks (1 hour 30 minutes)
+HTML5 and CSS3: “HTML5 and CSS3 Tutorial” by W3Schools (2 hours)
+
+
+*************************************************************************************************************************************************
+
+
+
+Javascript essentials
+YouTube Channels:
+Traversy Media - https://www.youtube.com/traversymedia
+SuperSimpleDev - https://www.youtube.com/supersimpledev
+Clever Programmer - https://www.youtube.com/cleverprogrammer
+JavaScript Mastery - https://www.youtube.com/javascriptmastery
+FreeCodeCamp - https://www.youtube.com/freecodecamp
+
+
+Online Courses and Tutorials:
+Learn Enough JavaScript - https://learnjavascript.online
+Net Ninja - https://www.netninja.com
+GeeksforGeeks - https://www.geeksforgeeks.org/javascript
+
+APIs and Libraries:
+YouTube API - https://developers.google.com/youtube/api
+jQuery - https://jquery.com
+React - https://reactjs.org
+
+Blogs and Articles:
+JavaScript Weekly - https://javascriptweekly.com
+Smashing Magazine - https://www.smashingmagazine.com
+
+Books:
+Eloquent JavaScript - https://eloquentjavascript.net
+JavaScript and DOM Scripting - https://www.oreilly.com/library/view/javascript-and-dom/0596517434
+
+Miscellaneous:
+W3Schools - https://www.w3schools.com/js
+MDN Web Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+********************************************************************************************************************************************************************
+
+React basics
+Official Resources
+React Official Documentation: https://reactjs.org/docs/getting-started.html
+React Tutorial by Facebook: https://facebook.github.io/react/tutorial/tutorial.html
+
+
+YouTube Videos
+Tyler McGinnis - React Tutorial for Beginners: https://www.youtube.com/watch?v=keOzMa9LR9w
+FreeCodeCamp - React Crash Course: https://www.youtube.com/watch?v=wc37EqIwDYk
+Traversy Media - React Tutorial for Beginners: https://www.youtube.com/watch?v=yszPKrZM9R4
+Pluralsight - React Fundamentals: https://www.youtube.com/watch?v=QIb4Kl8J8Q8
+
+
+Online Courses
+Codecademy - React Course: https://www.codecademy.com/learn/learn-react
+Udemy - React: The Complete Guide: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+FreeCodeCamp - React Certification: https://www.freecodecamp.org/learn/react-certification/
+
+
+Blogs and Articles
+React Official Blog: https://reactjs.org/blog/
+Smashing Magazine - React Tutorials and Articles: https://www.smashingmagazine.com/tag/react/
+Scrimba - React Tutorials and Guides: https://scrimba.com/learn/react
+
+
+Books
+“React: Up & Running” by Stoyan Stefanov and Kirupa Chinnathambi
+“React: The Complete Guide” by Adam Freeman
+“Learning React” by Kirupa Chinnathambi
+
+
+***************************************************************************************************************************************************
+
+
+Advanced react
+Courses and Tutorials
+Full Stack MERN & Redux with React - https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Db3yOhmPFkRzqxoZ6yz
+Advanced React Concepts - https://www.pluralsight.com/courses/advanced-react
+React 16 and Beyond - https://www.youtube.com/playlist?list=PLillGF-RfqbX7zW9R8q8FZJl0MqREOSz9
+
+Books and eBooks
+SurviveJS - React - https://survivejs.com/react/
+React: Up & Running - https://www.oreilly.com/library/view/react-up/9781491931614/
+
+Blogs and Articles
+Advanced React Patterns - https://medium.com/@TylerMcGinnis/compound-components-b935f75fc9e0
+React 16.6 Code-Splitting - https://medium.com/@kentcdodds/code-splitting-for-react-router-with-react-loadable-76fbb87c2475
+5 Concepts to Take Your React Skills to the Next Level - https://www.freecodecamp.org/news/five-concepts-to-take-your-react-skills-to-the-next-level-4739a3abdf64/
+
+YouTube Channels
+Tyler McGinnis - https://www.youtube.com/tylermcginnis
+Traversy Media - https://www.youtube.com/traversy media
+The Net Ninja - https://www.youtube.com/thenetninja
+
+Other Resources
+Reactiflux - https://github.com/reactiflux
+React Patterns - https://github.com/krasimir/react-in-patterns
+
+
+
+
+************************************************************************************************************************************************************************
+
+
+
+Backend development
+YouTube Channels:
+Traversy Media - https://www.youtube.com/traversymedia
+The Net Ninja - https://www.youtube.com/thenetninja
+Clever Programmer - https://www.youtube.com/cleverprogrammer
+Dev Ed - https://www.youtube.com/dev-ed
+Kevin Powell - https://www.youtube.com/kevinpowell
+
+Playlists and Courses:
+Traversy Media’s Back End Web Development Playlist - https://www.youtube.com/playlist?list=PLillGF-RfQBajpuD3Tz9I4am4H0RqW9K0
+Clever Programmer’s Node.js and Express Course - https://www.youtube.com/playlist?list=PL4cUUEqEpQtkzeD3W6Kc2Y5fQGQ8FQ5Y9
+FreeCodeCamp’s Back End Development Playlist - https://www.youtube.com/playlist?list=PLWKjhVQfrxbmBRRa3SOngv2iT_baY5rxL
+
+Podcasts:
+The Backend Engineering Show - https://backendengineering.show/
+JS Party: JavaScript & Web Dev - https://jsparty.fm/
+
+Additional Resources:
+Codecourse - https://codecourse.com/
+FreeCodeCamp - https://www.freecodecamp.org/
+
+*****************************************************************************************************************************************************************
+
+Full stack project
+YouTube Channels:
+Traversy Media (Brad Traversy) - https://www.youtube.com/traversymedia
+Codevolution - https://www.youtube.com/codevolution
+FreeCodeCamp - https://www.youtube.com/freecodecamp
+The Net Ninja - https://www.youtube.com/thenetninja
+Fireship - https://www.youtube.com/fireship
+Tech With Tim - https://www.youtube.com/techwithtim
+LearnCode - https://www.youtube.com/learncode
+
+
+Online Courses and Tutorials:
+Codecourse - https://codecourse.com
+Courses.AngularClass.com - https://courses.angularclass.com
+Edabit - https://edabit.com
+MongoDB University - https://university.mongodb.com
+Serverless Stack - https://serverless-stack.com
+
+Books and eBooks:
+Modern Full Stack Development by Frank Zammetti
+The Full Stack Developer by Chris Northwood
+Cracking the Full Stack Developer Interview by Hirako San
+
+Communities and Meetups:
+GitHub - bmorelli25/Become-A-Full-Stack-Web-Developer - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
+Reddit - r/learnprogramming, r/webdev, r/fullstackdev
+
+Conferences and Events:
+Worldwide Developers Conference (WWDC) - https://developer.apple.com/worldwide-developers
+
+Miscellaneous:
+DevTips - https://devtips.io
+Exercism - https://exercism.io
+Hacktoberfest - https://hacktoberfest.digitalocean.com
+Up For Grabs - https://upforgrabs.io
