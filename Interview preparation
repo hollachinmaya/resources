@@ -1,49 +1,102 @@
 1. Foundation Building
-freeCodeCamp - Data Structures: https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/
-GeeksforGeeks - Data Structures: https://www.geeksforgeeks.org/data-structures/
-MIT OpenCourseWare - Introduction to Algorithms: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
-Java Programming and Software Engineering Fundamentals (Coursera): https://www.coursera.org/specializations/java-programming
-Python for Everybody (Coursera): https://www.coursera.org/specializations/python
-Operating Systems Course by GATE Overflow (YouTube): https://www.youtube.com/watch?v=sqzQ3GYqWT0
-Computer Networking Course by Stanford (YouTube): https://www.youtube.com/playlist?list=PLoCMsyE1cvdWrGoCX-LITr5WRDyEqdc1b
+freeCodeCamp - Data Structures: Beginner-friendly guide to data structures and algorithms.
+https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/
+
+GeeksforGeeks - Data Structures: Comprehensive tutorials on data structures.
+https://www.geeksforgeeks.org/data-structures/
+
+MIT OpenCourseWare - Introduction to Algorithms: Detailed MIT course on algorithms.
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+
+Java Programming and Software Engineering Fundamentals (Coursera): Master Java programming through a specialized course.
+https://www.coursera.org/specializations/java-programming
+
+Python for Everybody (Coursera): Comprehensive Python programming course for all skill levels.
+https://www.coursera.org/specializations/python
+
+Operating Systems Course by GATE Overflow (YouTube): Free video lectures on operating systems concepts.
+https://www.youtube.com/watch?v=sqzQ3GYqWT0
+
+Computer Networking Course by Stanford (YouTube): Playlist covering foundational computer networking topics.
+https://www.youtube.com/playlist?list=PLoCMsyE1cvdWrGoCX-LITr5WRDyEqdc1b
+
 
 
 2. Practice Coding
-LeetCode: https://leetcode.com/
-HackerRank - 10 Days of Coding: https://www.hackerrank.com/domains/tutorials/10-days-of-coding
-Codeforces: https://codeforces.com/
-GeeksforGeeks - Must Do Coding Questions: https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+LeetCode: Platform for practicing and mastering coding interview questions.
+https://leetcode.com/
+
+HackerRank - 10 Days of Coding: Quick practice series to improve programming skills.
+https://www.hackerrank.com/domains/tutorials/10-days-of-coding
+
+Codeforces: Competitive programming contests and problem sets.
+https://codeforces.com/
+
+GeeksforGeeks - Must Do Coding Questions: Curated list of essential coding questions for interviews.
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+
 
 
 3. System Design
-System Design Interview by Alex Xu (Amazon): https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
-Grokking the System Design Interview (Educative.io): https://www.educative.io/courses/grokking-the-system-design-interview
-System Design Playlist by Gaurav Sen (YouTube): https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+System Design Interview by Alex Xu (Amazon): A book with real-world system design interview problems.
+https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
+
+Grokking the System Design Interview (Educative.io): Interactive course on system design interview preparation.
+https://www.educative.io/courses/grokking-the-system-design-interview
+
+System Design Playlist by Gaurav Sen (YouTube): Video series on key system design concepts.
+https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
 
 
 4. Behavioral Preparation
-How to Use the STAR Method (Indeed): https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
-Top Behavioral Interview Questions (Big Interview): https://resources.biginterview.com/behavioral-interviews/top-behavioral-interview-questions/
+How to Use the STAR Method (Indeed): Guide to structuring behavioral interview answers.
+https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
+
+Top Behavioral Interview Questions (Big Interview): List of common behavioral interview questions.
+https://resources.biginterview.com/behavioral-interviews/top-behavioral-interview-questions/
+
 
 
 5. Domain-Specific Knowledge
-The Odin Project - Frontend Development Path: https://www.theodinproject.com/paths/full-stack-javascript
-Spring Boot Tutorial by Baeldung: https://www.baeldung.com/spring-boot
-Docker Tutorials (Docker Official): https://www.docker.com/get-started/
-Kubernetes Basics (kubernetes.io): https://kubernetes.io/docs/tutorials/kubernetes-basics/
-Google Crash Course on Machine Learning: https://developers.google.com/machine-learning/crash-course
+The Odin Project - Frontend Development Path: Structured learning path for frontend development.
+https://www.theodinproject.com/paths/full-stack-javascript
+
+Spring Boot Tutorial by Baeldung: Tutorials for building applications with Spring Boot.
+https://www.baeldung.com/spring-boot
+
+Docker Tutorials (Docker Official): Beginner-friendly guide to containerization with Docker.
+https://www.docker.com/get-started/
+
+Kubernetes Basics (kubernetes.io): Tutorials to learn the basics of Kubernetes.
+https://kubernetes.io/docs/tutorials/kubernetes-basics/
+
+Google Crash Course on Machine Learning: Practical introduction to machine learning concepts.
+https://developers.google.com/machine-learning/crash-course
+
 
 
 6. Mock Interviews
-Interviewing.io: https://interviewing.io/
-Pramp: https://www.pramp.com/
+Interviewing.io: Platform for practicing mock interviews with industry professionals.
+https://interviewing.io/
+
+Pramp: Peer-to-peer mock interviews for coding and behavioral questions.
+https://www.pramp.com/
+
 
 
 7. Resume and Portfolio
-Overleaf - Free Resume Templates: https://www.overleaf.com/gallery/tagged/cv
-GitHub Docs - Hosting Projects: https://docs.github.com/en/get-started/quickstart/hello-world
+Overleaf - Free Resume Templates: Professional templates for creating resumes using LaTeX.
+https://www.overleaf.com/gallery/tagged/cv
+
+GitHub Docs - Hosting Projects: Step-by-step guide to hosting projects on GitHub.
+https://docs.github.com/en/get-started/quickstart/hello-world
+
 
 
 8. Day Before the Interview
-Algorithm Cheat Sheet (GeeksforGeeks): https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-Big O Complexity Cheat Sheet (Big-O Cheat Sheet): https://www.bigocheatsheet.com/
+Algorithm Cheat Sheet (GeeksforGeeks): Handy reference for common algorithms and techniques.
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+Big O Complexity Cheat Sheet: Visual guide to time and space complexity of algorithms.
+https://www.bigocheatsheet.com/
