@@ -1,26 +1,114 @@
 Stage 1: Fundamentals
-Introduction to Machine Learning (Andrew Ng’s Course on Coursera) - https://www.coursera.org/specializations/machine-learning
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Book) - https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
-Math4ML playlist by Weights & Biases (YouTube) - https://www.youtube.com/playlist?list=PLqFaTIg4myu8g8hCkrcYthfi3hH6KMbad
-Machine Learning Crash Course (Google) - https://developers.google.com/machine-learning/crash-course
-Machine Learning Tutorial by Google (YouTube) - https://www.youtube.com/playlist?list=PLT6elRNHub1k4ZUSFVdPm9i1Ywbuj5VnT
+Introduction to Machine Learning by Andrew Ng (Coursera)
+A comprehensive course covering the foundations of machine learning, including regression, classification, and optimization techniques.
+https://www.coursera.org/specializations/machine-learning
 
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Book)
+A practical book offering hands-on examples to implement ML algorithms using Python libraries like Scikit-Learn and TensorFlow.
+https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
+Math4ML Playlist by Weights & Biases (YouTube)
+A playlist explaining the mathematical principles underlying machine learning concepts like linear algebra and probability.
+https://www.youtube.com/playlist?list=PLqFaTIg4myu8g8hCkrcYthfi3hH6KMbad
+
+Machine Learning Crash Course (Google)
+A beginner-friendly course introducing core ML concepts and practical TensorFlow exercises.
+https://developers.google.com/machine-learning/crash-course
+
+Machine Learning Tutorial by Google (YouTube)
+A series of videos providing an introduction to ML fundamentals with real-world applications.
+https://www.youtube.com/playlist?list=PLT6elRNHub1k4ZUSFVdPm9i1Ywbuj5VnT
+
+Foundations of Machine Learning by AWS (Free Digital Course)
+An entry-level course offering an overview of machine learning concepts and AWS AI/ML tools.
+https://explore.skillbuilder.aws/learn/course/8433/foundations-of-machine-learning
+
+Elements of AI (Free Online Course)
+A free and interactive course designed for beginners, covering AI and machine learning principles.
+https://www.elementsofai.com/
+
+Python for Data Science and Machine Learning Bootcamp (Udemy)
+A popular course teaching Python programming and ML basics with real-world examples.
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+
+**********************************************************************************************************************************************************
 
 Stage 2: Supervised Learning
-Fast.ai’s Practical Deep Learning for Computer Vision (Course) - https://course.fast.ai/
-Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Course) - https://cs231n.github.io/
-Supervised Learning with scikit-learn (Tutorials by DataCamp) - https://www.datacamp.com/tutorial/supervised-learning-with-scikit-learn
-Supervised Learning with Python (Google Colab) - https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/supervised-learning.ipynb
-Machine Learning with Python (edX) - https://www.edx.org/course/machine-learning-with-python
+Fast.ai’s Practical Deep Learning for Computer Vision
+A hands-on course teaching deep learning techniques with Fast.ai, focusing on image recognition tasks.
+https://course.fast.ai/
+
+Stanford CS231n: Convolutional Neural Networks for Visual Recognition
+A highly recommended course covering convolutional neural networks (CNNs) and their applications in visual recognition.
+https://cs231n.github.io/
+
+Supervised Learning with Scikit-Learn (DataCamp)
+Tutorials explaining how to build supervised machine learning models using Scikit-Learn.
+https://www.datacamp.com/tutorial/supervised-learning-with-scikit-learn
+
+Supervised Learning with Python (Google Colab)
+A free Colab notebook offering practical exercises on supervised machine learning using Python.
+https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/supervised-learning.ipynb
+
+Machine Learning with Python (edX)
+A course introducing ML techniques using Python with an emphasis on real-world applications.
+https://www.edx.org/course/machine-learning-with-python
+
+Kaggle Learn: Supervised Learning Track
+A beginner-friendly guided track with hands-on ML exercises on supervised learning.
+https://www.kaggle.com/learn/intro-to-machine-learning
+
+***********************************************************************************************************************************************************
 
 Stage 3: Unsupervised Learning
-Unsupervised Learning with K-Means Clustering (Tutorials by DataCamp) - https://www.datacamp.com/tutorial/unsupervised-learning-with-k-means-clustering
-Hierarchical Clustering with scikit-learn (Tutorials by DataCamp) - https://www.datacamp.com/tutorial/hierarchical-clustering-with-scikit-learn
-Dimensionality Reduction with PCA and t-SNE (Tutorials by DataCamp) - https://www.datacamp.com/tutorial/dimensionality-reduction-with-pca-and-t-sne
-Unsupervised Learning with Python (Google Colab) - https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/unsupervised-learning.ipynb
-Unsupervised Learning (KDNuggets) - https://www.kdnuggets.com/tag/unsupervised-learning
+Unsupervised Learning with K-Means Clustering (DataCamp)
+A tutorial explaining how to perform K-Means clustering with Scikit-Learn.
+https://www.datacamp.com/tutorial/unsupervised-learning-with-k-means-clustering
+
+Hierarchical Clustering with Scikit-Learn (DataCamp)
+A tutorial covering hierarchical clustering techniques and their applications.
+https://www.datacamp.com/tutorial/hierarchical-clustering-with-scikit-learn
+
+Dimensionality Reduction with PCA and t-SNE (DataCamp)
+Tutorials explaining techniques like Principal Component Analysis (PCA) and t-SNE for dimensionality reduction.
+https://www.datacamp.com/tutorial/dimensionality-reduction-with-pca-and-t-sne
+
+Unsupervised Learning with Python (Google Colab)
+A free Colab notebook covering unsupervised learning techniques, including clustering.
+https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/unsupervised-learning.ipynb
+
+Unsupervised Learning (KDnuggets)
+A comprehensive resource exploring unsupervised learning techniques with practical examples.
+https://www.kdnuggets.com/tag/unsupervised-learning
+
+Clustering Fundamentals by Analytics Vidhya
+A beginner guide explaining clustering techniques and their real-world applications.
+https://www.analyticsvidhya.com/blog/2019/03/beginners-guide-k-means-clustering/
+
+
+***************************************************************************************************************************************************
 
 Stage 4: Deep Learning
-Deep Learning Specialization by Andrew Ng on Coursera - https://www.coursera.org/specializations/deep-learning
-Deep Learning with Python and Keras (Course by Sentdex on YouTube) - https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OZ_3LQnS
-TensorFlow Tutorial for Deep Learning (Tutorials by DataCamp) - [https://www.datacamp.com/tutorial/tensorflow
+Deep Learning Specialization by Andrew Ng (Coursera)
+A five-course series covering the foundations of deep learning and neural networks.
+https://www.coursera.org/specializations/deep-learning
+
+Deep Learning with Python and Keras (YouTube by Sentdex)
+A playlist providing practical tutorials on building deep learning models using Python and Keras.
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OZ_3LQnS
+
+TensorFlow Tutorial for Deep Learning (DataCamp)
+A beginner-friendly guide on implementing deep learning models using TensorFlow.
+https://www.datacamp.com/tutorial/tensorflow
+
+Stanford CS224n: Natural Language Processing with Deep Learning
+A detailed course focusing on NLP applications of deep learning.
+http://web.stanford.edu/class/cs224n/
+
+PyTorch for Deep Learning (FreeCodeCamp YouTube)
+A full course tutorial on using PyTorch for building and training deep learning models.
+https://www.youtube.com/watch?v=GIsg-ZUy0MY
+
+Deep Learning Illustrated (Book)
+A visually rich guide to deep learning concepts, ideal for beginners.
+https://www.oreilly.com/library/view/deep-learning-illustrated/9780135116692/
