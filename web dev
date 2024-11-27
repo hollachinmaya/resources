@@ -27,160 +27,257 @@ HTML5 and CSS3: “HTML5 and CSS3 Tutorial” by W3Schools (2 hours)
 
 
 
-Javascript essentials
-YouTube Channels:
-Traversy Media - https://www.youtube.com/traversymedia
-SuperSimpleDev - https://www.youtube.com/supersimpledev
-Clever Programmer - https://www.youtube.com/cleverprogrammer
-JavaScript Mastery - https://www.youtube.com/javascriptmastery
-FreeCodeCamp - https://www.youtube.com/freecodecamp
+JavaScript Essentials
+YouTube Channels
+Traversy Media: Tutorials on JavaScript, web development, and more.
+https://www.youtube.com/traversymedia
 
+SuperSimpleDev: Simplified programming tutorials.
+https://www.youtube.com/supersimpledev
 
-Online Courses and Tutorials:
-Learn Enough JavaScript - https://learnjavascript.online
-Net Ninja - https://www.netninja.com
-GeeksforGeeks - https://www.geeksforgeeks.org/javascript
+Clever Programmer: Focused on JavaScript and full-stack development.
+https://www.youtube.com/cleverprogrammer
 
-APIs and Libraries:
-YouTube API - https://developers.google.com/youtube/api
-jQuery - https://jquery.com
-React - https://reactjs.org
+JavaScript Mastery: In-depth JavaScript and React tutorials.
+https://www.youtube.com/javascriptmastery
 
-Blogs and Articles:
-JavaScript Weekly - https://javascriptweekly.com
-Smashing Magazine - https://www.smashingmagazine.com
+FreeCodeCamp: Free tutorials for JavaScript and other programming topics.
+https://www.youtube.com/freecodecamp
 
-Books:
-Eloquent JavaScript - https://eloquentjavascript.net
-JavaScript and DOM Scripting - https://www.oreilly.com/library/view/javascript-and-dom/0596517434
+Online Courses and Tutorials
+Learn Enough JavaScript: Beginner-friendly interactive JavaScript course.
+https://learnjavascript.online
 
-Miscellaneous:
-W3Schools - https://www.w3schools.com/js
-MDN Web Docs - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Net Ninja: Comprehensive JavaScript tutorials.
+https://www.netninja.com
+
+GeeksforGeeks: Tutorials for JavaScript concepts and interview prep.
+https://www.geeksforgeeks.org/javascript
+
+APIs and Libraries
+YouTube API: Official documentation for the YouTube Data API.
+https://developers.google.com/youtube/api
+
+jQuery: Simplify DOM manipulation and event handling.
+https://jquery.com
+
+React: JavaScript library for building user interfaces.
+https://reactjs.org
+
+Blogs and Articles
+JavaScript Weekly: Weekly newsletter with JavaScript news and tutorials.
+https://javascriptweekly.com
+
+Smashing Magazine: Articles on JavaScript and web development.
+https://www.smashingmagazine.com
+
+Books
+Eloquent JavaScript: A modern introduction to programming with JavaScript.
+https://eloquentjavascript.net
+
+JavaScript and DOM Scripting: Book on JavaScript and web development techniques.
+https://www.oreilly.com/library/view/javascript-and-dom/0596517434
+
+Miscellaneous
+W3Schools: Beginner-friendly JavaScript tutorials.
+https://www.w3schools.com/js
+
+MDN Web Docs: Detailed documentation and guides on JavaScript.
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
 ********************************************************************************************************************************************************************
 
-React basics
+React Basics
 Official Resources
-React Official Documentation: https://reactjs.org/docs/getting-started.html
-React Tutorial by Facebook: https://facebook.github.io/react/tutorial/tutorial.html
+React Official Documentation: Comprehensive React guides and tutorials.
+https://reactjs.org/docs/getting-started.html
 
+React Tutorial by Facebook: Step-by-step guide to build your first React app.
+https://facebook.github.io/react/tutorial/tutorial.html
 
 YouTube Videos
-Tyler McGinnis - React Tutorial for Beginners: https://www.youtube.com/watch?v=keOzMa9LR9w
-FreeCodeCamp - React Crash Course: https://www.youtube.com/watch?v=wc37EqIwDYk
-Traversy Media - React Tutorial for Beginners: https://www.youtube.com/watch?v=yszPKrZM9R4
-Pluralsight - React Fundamentals: https://www.youtube.com/watch?v=QIb4Kl8J8Q8
+Tyler McGinnis: Beginner-friendly React tutorial.
+https://www.youtube.com/watch?v=keOzMa9LR9w
 
+FreeCodeCamp - React Crash Course: Learn React fundamentals in one session.
+https://www.youtube.com/watch?v=wc37EqIwDYk
+
+Traversy Media - React Tutorial for Beginners: Easy-to-follow beginner React course.
+https://www.youtube.com/watch?v=yszPKrZM9R4
+
+Pluralsight - React Fundamentals: A beginner-focused introduction to React.
+https://www.youtube.com/watch?v=QIb4Kl8J8Q8
 
 Online Courses
-Codecademy - React Course: https://www.codecademy.com/learn/learn-react
-Udemy - React: The Complete Guide: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
-FreeCodeCamp - React Certification: https://www.freecodecamp.org/learn/react-certification/
+Codecademy - React Course: Interactive React lessons with projects.
+https://www.codecademy.com/learn/learn-react
 
+Udemy - React: The Complete Guide: A complete React course, including Redux.
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+FreeCodeCamp - React Certification: Learn React through structured lessons and projects.
+https://www.freecodecamp.org/learn/react-certification/
 
 Blogs and Articles
-React Official Blog: https://reactjs.org/blog/
-Smashing Magazine - React Tutorials and Articles: https://www.smashingmagazine.com/tag/react/
-Scrimba - React Tutorials and Guides: https://scrimba.com/learn/react
+React Official Blog: Updates and new features from the React team.
+https://reactjs.org/blog/
 
+Smashing Magazine - React Tutorials and Articles: High-quality articles for React developers.
+https://www.smashingmagazine.com/tag/react/
+
+Scrimba - React Tutorials and Guides: Interactive tutorials for learning React.
+https://scrimba.com/learn/react
 
 Books
-“React: Up & Running” by Stoyan Stefanov and Kirupa Chinnathambi
-“React: The Complete Guide” by Adam Freeman
-“Learning React” by Kirupa Chinnathambi
+React: Up & Running: A hands-on guide to learning React quickly.
+https://www.oreilly.com/library/view/react-up/9781491931614/
+
+React: The Complete Guide: In-depth React concepts and patterns.
+https://www.amazon.com/dp/B08CMF2CQF
+
+Learning React: A beginner-friendly book by Kirupa Chinnathambi.
+https://www.oreilly.com/library/view/learning-react-2nd/9781492051717/
 
 
 ***************************************************************************************************************************************************
 
 
-Advanced react
+Advanced React
 Courses and Tutorials
-Full Stack MERN & Redux with React - https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Db3yOhmPFkRzqxoZ6yz
-Advanced React Concepts - https://www.pluralsight.com/courses/advanced-react
-React 16 and Beyond - https://www.youtube.com/playlist?list=PLillGF-RfqbX7zW9R8q8FZJl0MqREOSz9
+Full Stack MERN & Redux with React: Comprehensive React, Node.js, and Redux course.
+https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Db3yOhmPFkRzqxoZ6yz
+
+Advanced React Concepts: In-depth React learning covering hooks, context, and more.
+https://www.pluralsight.com/courses/advanced-react
+
+React 16 and Beyond: Focused on advanced React features.
+https://www.youtube.com/playlist?list=PLillGF-RfqbX7zW9R8q8FZJl0MqREOSz9
 
 Books and eBooks
-SurviveJS - React - https://survivejs.com/react/
-React: Up & Running - https://www.oreilly.com/library/view/react-up/9781491931614/
+SurviveJS - React: Book on building scalable React applications.
+https://survivejs.com/react/
+
+React: Up & Running: A practical guide to mastering React.
+https://www.oreilly.com/library/view/react-up/9781491931614/
 
 Blogs and Articles
-Advanced React Patterns - https://medium.com/@TylerMcGinnis/compound-components-b935f75fc9e0
-React 16.6 Code-Splitting - https://medium.com/@kentcdodds/code-splitting-for-react-router-with-react-loadable-76fbb87c2475
-5 Concepts to Take Your React Skills to the Next Level - https://www.freecodecamp.org/news/five-concepts-to-take-your-react-skills-to-the-next-level-4739a3abdf64/
+Advanced React Patterns: Tips and techniques for creating reusable components.
+https://medium.com/@TylerMcGinnis/compound-components-b935f75fc9e0
+
+React 16.6 Code-Splitting: Guide on improving performance with React.
+https://medium.com/@kentcdodds/code-splitting-for-react-router-with-react-loadable-76fbb87c2475
+
+5 Concepts to Take Your React Skills to the Next Level: Advanced concepts in React.
+https://www.freecodecamp.org/news/five-concepts-to-take-your-react-skills-to-the-next-level-4739a3abdf64/
 
 YouTube Channels
-Tyler McGinnis - https://www.youtube.com/tylermcginnis
-Traversy Media - https://www.youtube.com/traversy media
-The Net Ninja - https://www.youtube.com/thenetninja
+Tyler McGinnis: Advanced React tutorials and concepts.
+https://www.youtube.com/tylermcginnis
+
+Traversy Media: Popular for in-depth web development content.
+https://www.youtube.com/traversymedia
+
+The Net Ninja: Great React tutorials, including advanced topics.
+https://www.youtube.com/thenetninja
 
 Other Resources
-Reactiflux - https://github.com/reactiflux
-React Patterns - https://github.com/krasimir/react-in-patterns
+Reactiflux: Community for React developers.
+https://github.com/reactiflux
 
+React Patterns: A collection of React patterns and best practices.
+https://github.com/krasimir/react-in-patterns
 
+**********************************************************************************************************************************************
 
+Backend Development
+YouTube Channels
+Traversy Media: Offers full-stack and backend tutorials.
+https://www.youtube.com/traversymedia
 
-************************************************************************************************************************************************************************
+The Net Ninja: Backend development tutorials across different stacks.
+https://www.youtube.com/thenetninja
 
+Clever Programmer: Node.js, Express, and more backend content.
+https://www.youtube.com/cleverprogrammer
 
+Dev Ed: Tutorials on various backend technologies.
+https://www.youtube.com/dev-ed
 
-Backend development
-YouTube Channels:
-Traversy Media - https://www.youtube.com/traversymedia
-The Net Ninja - https://www.youtube.com/thenetninja
-Clever Programmer - https://www.youtube.com/cleverprogrammer
-Dev Ed - https://www.youtube.com/dev-ed
-Kevin Powell - https://www.youtube.com/kevinpowell
+Kevin Powell: Offers backend and frontend content.
+https://www.youtube.com/kevinpowell
 
-Playlists and Courses:
-Traversy Media’s Back End Web Development Playlist - https://www.youtube.com/playlist?list=PLillGF-RfQBajpuD3Tz9I4am4H0RqW9K0
-Clever Programmer’s Node.js and Express Course - https://www.youtube.com/playlist?list=PL4cUUEqEpQtkzeD3W6Kc2Y5fQGQ8FQ5Y9
-FreeCodeCamp’s Back End Development Playlist - https://www.youtube.com/playlist?list=PLWKjhVQfrxbmBRRa3SOngv2iT_baY5rxL
+Playlists and Courses
+Traversy Media’s Back End Web Development Playlist: In-depth backend tutorials.
+https://www.youtube.com/playlist?list=PLillGF-RfQBajpuD3Tz9I4am4H0RqW9K0
 
-Podcasts:
-The Backend Engineering Show - https://backendengineering.show/
-JS Party: JavaScript & Web Dev - https://jsparty.fm/
+Clever Programmer’s Node.js and Express Course: Detailed Node.js course.
+https://www.youtube.com/playlist?list=PL4cUUEqEpQtkzeD3W6Kc2Y5fQGQ8FQ5Y9
 
-Additional Resources:
-Codecourse - https://codecourse.com/
-FreeCodeCamp - https://www.freecodecamp.org/
+FreeCodeCamp’s Back End Development Playlist: A complete backend development curriculum.
+https://www.youtube.com/playlist?list=PLWKjhVQfrxbmBRRa3SOngv2iT_baY5rxL
 
-*****************************************************************************************************************************************************************
+Podcasts
+The Backend Engineering Show: Podcast on backend engineering topics.
+https://backendengineering.show/
 
-Full stack project
-YouTube Channels:
-Traversy Media (Brad Traversy) - https://www.youtube.com/traversymedia
-Codevolution - https://www.youtube.com/codevolution
-FreeCodeCamp - https://www.youtube.com/freecodecamp
-The Net Ninja - https://www.youtube.com/thenetninja
-Fireship - https://www.youtube.com/fireship
-Tech With Tim - https://www.youtube.com/techwithtim
-LearnCode - https://www.youtube.com/learncode
+JS Party: JavaScript & Web Dev: A podcast covering web development and JavaScript.
+https://jsparty.fm/
 
+Additional Resources
+Codecourse: Online tutorials and courses for backend technologies.
+https://codecourse.com/
 
-Online Courses and Tutorials:
-Codecourse - https://codecourse.com
-Courses.AngularClass.com - https://courses.angularclass.com
-Edabit - https://edabit.com
-MongoDB University - https://university.mongodb.com
-Serverless Stack - https://serverless-stack.com
+FreeCodeCamp: Offers free coding lessons for backend development.
+https://www.freecodecamp.org/
 
-Books and eBooks:
-Modern Full Stack Development by Frank Zammetti
-The Full Stack Developer by Chris Northwood
-Cracking the Full Stack Developer Interview by Hirako San
+***********************************************************************************************************************************
 
-Communities and Meetups:
-GitHub - bmorelli25/Become-A-Full-Stack-Web-Developer - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-Reddit - r/learnprogramming, r/webdev, r/fullstackdev
+Full Stack Project
+YouTube Channels
+Traversy Media (Brad Traversy): Comprehensive full-stack development tutorials.
+https://www.youtube.com/traversymedia
 
-Conferences and Events:
-Worldwide Developers Conference (WWDC) - https://developer.apple.com/worldwide-developers
+Codevolution: Full-stack development content, including React and Node.js.
+https://www.youtube.com/codevolution
 
-Miscellaneous:
-DevTips - https://devtips.io
-Exercism - https://exercism.io
-Hacktoberfest - https://hacktoberfest.digitalocean.com
-Up For Grabs - https://upforgrabs.io
+FreeCodeCamp: Free full-stack tutorials and project-based learning.
+https://www.youtube.com/freecodecamp
+
+The Net Ninja: Covers full-stack and individual technologies for web development.
+https://www.youtube.com/thenetninja
+
+Fireship: Short, informative videos on full-stack development topics.
+https://www.youtube.com/fireship
+
+Tech With Tim: Various programming tutorials, including full-stack.
+https://www.youtube.com/techwithtim
+
+LearnCode: Full-stack development tutorials and tech career advice.
+https://www.youtube.com/learncode
+
+Online Courses and Tutorials
+Codecourse: Learn full-stack development and advanced web topics.
+https://codecourse.com
+
+Courses.AngularClass.com: Courses focusing on Angular and full-stack development.
+https://courses.angularclass.com
+
+Edabit: Online platform with full-stack and tech development courses.
+https://edabit.com
+
+MongoDB University: Courses to master MongoDB and its integration with full-stack projects.
+https://university.mongodb.com
+
+Serverless Stack: A guide for building serverless full-stack apps.
+https://serverless-stack.com
+
+Books and eBooks
+Modern Full Stack Development: Guide to full-stack development with practical examples.
+https://www.amazon.com/Modern-Full-Stack-Development-Zammetti/dp/1484250308
+
+The Full Stack Developer: A book on mastering full-stack web development.
+https://www.amazon.com/Full-Stack-Developer-Chris-Northwood/dp/1484249395
+
+Cracking the Full Stack Developer Interview: Guide for preparing for full-stack interviews.
+[https://
