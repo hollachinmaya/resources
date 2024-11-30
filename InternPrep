@@ -1,76 +1,94 @@
-1. FANG/MAANG (Facebook/Meta, Amazon, Apple, Netflix, Google)
-Focus Areas
+FANG/MAANG (Facebook/Meta, Amazon, Apple, Netflix, Google)
+Focus Areas:
 Advanced DSA (Dynamic Programming, Graphs, Tries, etc.)
 System Design (High scalability, distributed systems)
 Behavioral Interview (Leadership and problem-solving)
 
-
-Resources
+Additional Resources
 Data Structures and Algorithms:
-freeCodeCamp - Advanced Algorithms: https://www.freecodecamp.org/news/some-of-the-most-useful-algorithms-freecodecamp/
-GeeksforGeeks - Advanced DSA: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+Codeforces Educational Round Tutorials:
+https://codeforces.com/edu
+
+MIT OpenCourseWare - Advanced Algorithms:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-fall-2005/
+
+YouTube:
+"Dynamic Programming Playlist" by Tushar Roy:
+https://www.youtube.com/playlist?list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu
+
+Aditya Verma's YouTube Channel (DSA tutorials):
+https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
+
+CP Algorithms:
+https://cp-algorithms.com/
 
 System Design:
-System Design Interview by Alex Xu (Book): https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
-Grokking the System Design Interview: https://www.educative.io/courses/grokking-the-system-design-interview
-Gaurav Sen's System Design (YouTube): https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+"System Design Primer" GitHub Repository:
+https://github.com/donnemartin/system-design-primer
 
-Practice Platforms:
-LeetCode Hard Problems: https://leetcode.com/problemset/all/?difficulty=Hard
-Codeforces Div. 1 Contests: https://codeforces.com/
+Design Gurus Blog (System Design Concepts):
+https://www.designgurus.org/
+YouTube:
+"Tech Dummies' Guide to System Design":
+https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
 
+"Scalable Web Architecture and Distributed Systems" by High Scalability Blog:
+http://highscalability.com/
+YouTube: "System Design Patterns" by ByteByteGo:
+https://www.youtube.com/c/ByteByteGo
 Behavioral:
-Leadership Principles - Amazon: https://www.amazon.jobs/en/principles
-STAR Interview Method (Indeed): https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique
+YouTube: "Behavioral Interviews Simplified" by Exponent:
+https://www.youtube.com/playlist?list=PL6JLbzMtRjyEzzdZsRfRFZOm_1kT0wWWR
 
-****************************************************************************************************************************************************************
+Big Interview Behavioral Guide:
+https://biginterview.com/behavioral-interviews/
 
-2. Tier 1 Companies (Uber, Microsoft, LinkedIn, etc.)
-Focus Areas
+YouTube: "Behavioral Interview Tips" by CareerVidz:
+https://www.youtube.com/watch?v=GdWSYqIPbVs
+
+Glassdoor - Behavioral Interview Questions Guide:
+https://www.glassdoor.com/blog/guide/behavioral-interview-questions/
+
+Indeed’s Leadership Interview Guide:
+https://www.indeed.com/career-advice/interviewing/leadership-interview-questions
+
+Tier 1 Companies (Uber, Microsoft, LinkedIn, etc.)
+Focus Areas:
 Advanced DSA (Heap, Segment Tree, etc.)
 Basic System Design (Cache, Load Balancer, etc.)
 Emphasis on clean coding and problem-solving
 
-Resources
+Additional Resources
 Data Structures and Algorithms:
-GeeksforGeeks - Must Do Questions: https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
-LeetCode Medium Problems: https://leetcode.com/problemset/all/?difficulty=Medium
+
+Coding Ninjas: Advanced DSA Tutorials:
+https://www.codingninjas.com/
+
+HackerRank Algorithm Section:
+https://www.hackerrank.com/domains/algorithms
+
+YouTube: "Heap and Priority Queue Basics" by CodeChef:
+https://www.youtube.com/watch?v=qzYDrqg5OOs
+
+Codeforces Problemsets:
+https://codeforces.com/problemset
+
+MIT Introduction to Algorithms Course:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
 
 System Design:
-Scalability Basics - Grokking: https://www.educative.io/courses/grokking-the-system-design-interview
+YouTube: "System Design Basics" by Neetcode:
+https://www.youtube.com/playlist?list=PLgUwDviBIf0q8H5KNcRkvY3FEmmoZhz7E
 
-Practice Platforms:
-InterviewBit: https://www.interviewbit.com/
-HackerRank - Practice DSA: https://www.hackerrank.com/domains/tutorials/10-days-of-coding
+Cloud Computing for Beginners (AWS, GCP):
+https://aws.amazon.com/training/beginner/
 
-**********************************************************************************************************************************************************************
+YouTube: "Basic Load Balancer Design" by Gaurav Sen:
+https://www.youtube.com/watch?v=esXw4bdaZkc
 
-3. Tier 2 Companies (Mid-sized tech firms, startups like Zoho, etc.)
-Focus Areas
-Basic DSA (Arrays, Strings, Linked Lists, Trees)
-Basic coding skills and understanding core CS fundamentals
-Resources
+YouTube: "Basics of Caching" by ByteByteGo:
+https://www.youtube.com/watch?v=SNBaKEVFmg8
 
-Data Structures and Algorithms:
-freeCodeCamp - Basic DSA: https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/
-HackerRank - Arrays and Strings: https://www.hackerrank.com/domains/tutorials/10-days-of-coding
-
-Practice Platforms:
-GeeksforGeeks Coding Practice: https://practice.geeksforgeeks.org/explore?page=1&difficulty%5B%5D=1&difficulty%5B%5D=2
-LeetCode Easy Problems: https://leetcode.com/problemset/all/?difficulty=Easy
-
-***********************************************************************************************************************************************************************
-
-4. Tier 3 Companies (Small-scale companies, local firms, etc.)
-Focus Areas
-Very basic DSA (sorting, searching, basic recursion)
-Emphasis on fundamental coding skills and basic problem-solving
-Resources
-
-Data Structures and Algorithms:
-GeeksforGeeks - Beginner Series: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
-Learn DSA in C++/Java (YouTube): https://www.youtube.com/c/CodeWithHarry/playlists
-
-Practice Platforms:
-HackerEarth - Easy Problems: https://www.hackerearth.com/practice/
-W3Schools - Coding Exercises: https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON
+"Designing Data-Intensive Applications" by Martin Kleppmann (Book):
+https://dataintensive.net/
