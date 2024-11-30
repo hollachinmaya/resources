@@ -1,26 +1,121 @@
-HTML and CSS basics
 HTML Resources
-W3Schools: www.w3schools.com/html - A comprehensive online tutorial and reference for HTML, with examples and exercises.
-MDN Web Docs: developer.mozilla.org/en-US/docs/Web/HTML - Mozilla’s official documentation for HTML, including tutorials, reference materials, and examples.
-HTML Dog: www.htmldog.com - A free online book and tutorial for HTML, covering topics from basic syntax to advanced techniques.
+W3Schools - Comprehensive tutorials and examples for HTML.
+https://www.w3schools.com/html
+
+MDN Web Docs - Official Mozilla documentation for HTML with examples.
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+HTML Dog - Free tutorials and references for HTML basics to advanced.
+https://www.htmldog.com
+
+FreeCodeCamp - Interactive lessons and tutorials for HTML.
+https://www.freecodecamp.org/learn/responsive-web-design/
+
+HTML Cheat Sheet - Quick reference for HTML tags and attributes.
+https://htmlcheatsheet.com/
+
+TutorialsPoint - HTML tutorials with examples and FAQs.
+https://www.tutorialspoint.com/html/index.htm
+
+GeeksforGeeks - Easy-to-understand tutorials for HTML concepts.
+https://www.geeksforgeeks.org/html-tutorials/
+
+HTML.com - Beginner-friendly HTML tutorials.
+https://html.com/
+
+CodeAcademy - Interactive learning platform for HTML and CSS.
+https://www.codecademy.com/learn/learn-html
+
+DigitalOcean - Tutorials for web developers, including HTML basics.
+https://www.digitalocean.com/community/tags/html
+
 
 
 CSS Resources
-W3Schools: www.w3schools.com/css - A comprehensive online tutorial and reference for CSS, with examples and exercises.
-MDN Web Docs: developer.mozilla.org/en-US/docs/Web/CSS - Mozilla’s official documentation for CSS, including tutorials, reference materials, and examples.
-CSS-Tricks: css-tricks.com - A popular blog and resource for CSS, covering topics from basics to advanced techniques, including responsive design and CSS animations.
+W3Schools - Comprehensive tutorials and examples for CSS.
+https://www.w3schools.com/css
+
+MDN Web Docs - Official Mozilla documentation for CSS with examples.
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+CSS-Tricks - Popular blog covering CSS topics from basics to advanced techniques.
+https://css-tricks.com/
+
+FreeCodeCamp - Interactive lessons and tutorials for CSS.
+https://www.freecodecamp.org/learn/responsive-web-design/
+
+Can I Use - Reference for CSS features and browser support.
+https://caniuse.com/
+
+Smashing Magazine - Articles and tutorials on CSS best practices.
+https://www.smashingmagazine.com/category/css/
+
+Learn CSS Layout - Hands-on CSS layout tutorials.
+http://learnlayout.com/
+
+Web.dev - Tutorials for modern CSS practices by Google.
+https://web.dev/learn/css/
+
+CodePen - Community platform to explore and learn CSS designs.
+https://codepen.io/
+
+CSS Reference - Visual reference for CSS properties.
+https://cssreference.io/
 
 
 YouTube Channels
-Traversy Media (Brad Traversy): www.youtube.com/traversymedia - Brad Traversy’s channel offers in-depth tutorials on HTML, CSS, JavaScript, and React.
-FreeCodeCamp: www.youtube.com/freecodecamp - FreeCodeCamp’s official YouTube channel offers video tutorials and explanations for HTML, CSS, JavaScript, and other web development topics.
-Tyler McGinnis: www.youtube.com/tylermcginnis - Tyler McGinnis’s channel offers tutorials on HTML, CSS, JavaScript, and React, with a focus on beginner-friendly content.
+Traversy Media - Web development tutorials, including HTML and CSS.
+https://www.youtube.com/traversymedia
+
+FreeCodeCamp - Tutorials on web development topics including CSS and HTML.
+https://www.youtube.com/freecodecamp
+
+Tyler McGinnis - Beginner-friendly tutorials for HTML, CSS, and JavaScript.
+https://www.youtube.com/tylermcginnis
+
+The Net Ninja - Concise and structured tutorials for web development.
+https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+
+Kevin Powell - Advanced and beginner-friendly CSS tutorials.
+https://www.youtube.com/user/KepowOb
+
+DesignCourse - UI/UX and CSS tips and tricks.
+https://www.youtube.com/c/DesignCourse
+
+Academind - HTML and CSS tutorials in detailed explanations.
+https://www.youtube.com/c/Academind
+
+Programming with Mosh - Beginner-friendly web development tutorials.
+https://www.youtube.com/user/programmingwithmosh
+
+Dev Ed - Fun and engaging web development tutorials.
+https://www.youtube.com/c/DevEd
+
+CodeCamp - Learn web development with practical examples.
+https://www.youtube.com/@codecamp
+
 
 Specific YouTube Videos
 HTML Basics: “HTML Tutorial for Beginners” by Traversy Media (45 minutes)
+https://www.youtube.com/watch?v=UB1O30fR-EE
 CSS Basics: “CSS Tutorial for Beginners” by FreeCodeCamp (1 hour 15 minutes)
+https://www.youtube.com/watch?v=yfoY53QXEnI
 Responsive Design: “Responsive Web Design Tutorial” by CSS-Tricks (1 hour 30 minutes)
+https://www.youtube.com/watch?v=srvUrASNj0s
 HTML5 and CSS3: “HTML5 and CSS3 Tutorial” by W3Schools (2 hours)
+https://www.youtube.com/watch?v=7FYyt5f4PAM
+CSS Grid: “CSS Grid Tutorial” by The Net Ninja (50 minutes)
+https://www.youtube.com/watch?v=EFafSYg-PkI
+CSS Flexbox: “Flexbox Tutorial” by Kevin Powell (30 minutes)
+https://www.youtube.com/watch?v=fYq5PXgSsbE
+Modern CSS: “CSS for the 2024 Web” by DesignCourse (1 hour)
+https://www.youtube.com/watch?v=-ao3hCz10I4
+HTML Semantics: “HTML Semantic Elements Explained” by Programming with Mosh (15 minutes)
+https://www.youtube.com/watch?v=GWeHFH8uYsg
+CSS Animations: “CSS Animation Tutorial” by Dev Ed (40 minutes)
+https://www.youtube.com/watch?v=PUv66718DII
+Advanced CSS: “Advanced CSS and Sass” by Academind (3 hours)
+https://www.youtube.com/watch?v=NUhks8WtsIE
 
 
 *************************************************************************************************************************************************
