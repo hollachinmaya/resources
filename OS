@@ -1,4 +1,37 @@
-geeks for geeks: https://www.geeksforgeeks.org/operating-systems/ 
-Gate smashers: https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
-Neso academy: https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
-javatpoint: https://www.javatpoint.com/operating-system-interview-questions
+YouTube Resources
+Gate Smashers - Comprehensive OS concepts in simple language.
+https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+Neso Academy - Clear explanations with animations.
+https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+Knowledge Gate - In-depth OS topic tutorials.
+https://www.youtube.com/playlist?list=PLmXKhU9FNesQGgz8xL-dEPhl3U4Hh6n8a
+Tutorials Point (YouTube) - Concise OS topic videos.
+https://www.youtube.com/user/tutorialspointindia
+EduRev Engineering - GATE-level OS lectures.
+https://www.youtube.com/playlist?list=PLKQu-ix31TLJmBexT9vOBXwMGecbf6FjE
+
+
+Online Articles/Resources
+GeeksforGeeks - OS concepts and interview prep.
+https://www.geeksforgeeks.org/operating-systems/
+Javatpoint - Easy-to-understand OS notes and FAQs.
+https://www.javatpoint.com/operating-system-interview-questions
+Tutorials Point - Beginner to advanced OS tutorials.
+https://www.tutorialspoint.com/operating_system/index.htm
+StudyTonight - Simplified OS notes and examples.
+https://www.studytonight.com/operating-system/
+Computer Science Notes - Detailed explanations of OS topics.
+https://www.csnotes.in/operating-system/
+
+
+Books and PDFs
+Operating System Concepts (Silberschatz) - Comprehensive OS book.
+https://codex.cs.yale.edu/avi/os-book/os9/
+Modern Operating Systems (Tanenbaum) - Detailed OS concepts.
+https://www.pearson.com/store/p/modern-operating-systems/P100000530127
+MIT OpenCourseWare - Lecture notes and resources.
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/
+NPTEL - Video lectures by IIT professors.
+https://nptel.ac.in/courses/106106144
+Free OS Book - Free online book for OS learners.
+https://pages.cs.wisc.edu/~remzi/OSTEP/
