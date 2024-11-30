@@ -1,0 +1,81 @@
+1. Beginner Stage: Understanding Basics of Data Science
+Resources
+
+Coursera: Data Science Specialization - Beginner-friendly specialization by Johns Hopkins University introducing data science concepts and tools like R programming.
+https://www.coursera.org/specializations/jhu-data-science
+
+Kaggle Learn - Interactive tutorials for Python, data analysis, and machine learning.
+https://www.kaggle.com/learn
+
+FreeCodeCamp: Data Analysis with Python - Hands-on tutorials covering Python for data analysis and visualization.
+https://www.freecodecamp.org/learn/data-analysis-with-python/
+
+DataCamp: Data Science for Everyone - Beginner-friendly introduction to data science fundamentals.
+https://www.datacamp.com/courses/data-science-for-everyone
+
+YouTube Videos
+“What is Data Science?” by FreeCodeCamp (15 minutes): https://www.youtube.com/watch?v=X3paOmcrTjQ
+“Data Science Explained in 5 Minutes” by Simplilearn (5 minutes): https://www.youtube.com/watch?v=4_GhQ-pZtKk
+“Introduction to Data Science for Beginners” by Codebasics (1 hour): https://www.youtube.com/watch?v=nLw1RNvfElg
+
+
+2. Programming for Data Science
+
+Resources
+5. Python for Data Science Handbook - A comprehensive guide to Python libraries like NumPy, pandas, and Matplotlib.
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
+R for Data Science - Beginner-to-advanced R programming for data analysis and visualization.
+https://r4ds.had.co.nz/
+
+W3Schools: Python for Data Science - A step-by-step Python tutorial for beginners in data science.
+https://www.w3schools.com/python/python_data_science.asp
+
+Programming with Mosh: Python for Data Science - YouTube tutorials explaining Python libraries like pandas and Matplotlib.
+https://www.youtube.com/playlist?list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
+
+
+YouTube Videos
+“Python for Data Science” by Programming with Mosh (1 hour): https://www.youtube.com/watch?v=_uQrJ0TkZlc
+“Learn R for Data Science” by Simplilearn (1.5 hours): https://www.youtube.com/watch?v=_V8eKsto3Ug
+“Python Libraries for Data Science” by FreeCodeCamp (1 hour): https://www.youtube.com/watch?v=GPVsHOlRBBI
+
+3. Data Wrangling and Visualization
+Resources
+Data Wrangling with pandas - Detailed guide on data cleaning and manipulation using pandas.
+https://realpython.com/pandas-python-explore-dataset/
+
+Tableau Public - Free tutorials and guides for creating interactive dashboards using Tableau.
+https://public.tableau.com/en-us/s/resources
+
+Data Visualization: From Beginner to Expert - Learn best practices in data visualization using Python or R.
+https://datavizcatalogue.com/
+
+Storytelling with Data - Blog and resources to craft meaningful data stories.
+https://www.storytellingwithdata.com/blog
+
+
+YouTube Videos
+“Data Cleaning with Python” by Data School (30 minutes): https://www.youtube.com/watch?v=otCriSKVV_4
+“Tableau Tutorial for Beginners” by Simplilearn (1.5 hours): https://www.youtube.com/watch?v=AxwPRjIZzMk
+“Data Visualization with Matplotlib and Seaborn” by Codebasics (1 hour): https://www.youtube.com/watch?v=0P7QnIQDBJY
+
+
+4. Machine Learning Foundations
+Resources
+Andrew Ng's Machine Learning Course - Coursera course covering foundational ML concepts and algorithms.
+https://www.coursera.org/learn/machine-learning
+
+Scikit-learn Documentation - Tutorials and guides for implementing machine learning models in Python.
+https://scikit-learn.org/stable/documentation.html
+
+Fast.ai: Practical Deep Learning for Coders - Beginner-friendly tutorials on deep learning and neural networks.
+https://course.fast.ai/
+
+Kaggle Competitions - Hands-on practice by participating in data science and machine learning competitions.
+https://www.kaggle.com/competitions
+
+YouTube Videos
+“Machine Learning Basics” by Andrew Ng (20 minutes): https://www.youtube.com/watch?v=7FujbpJ0LB4
+“Introduction to Scikit-learn” by Simplilearn (45 minutes): https://www.youtube.com/watch?v=XlZzOEV-tU8
+“Deep Learning with Fast.ai” by Jeremy Howard (2 hours): https://www.youtube.com/watch?v=JqxT57HZcTk
